@@ -1,0 +1,35 @@
+
+    .letter { 
+        color: red; /* Красный цвет символов */ 
+        font-size: 200%; /* Размер шрифта в процентах */ 
+        font-family: serif; /* Шрифт с засечками */ 
+        position: relative; /* Относительное позиционирование */ 
+        top: 5px; /* Сдвиг сверху */ 
+       }
+
+       body { 
+        font-family: Arial, sans-serif; /* Рубленый шрифт */ 
+       }
+       .block1 { 
+        width: 300px; 
+        background: #fc0; 
+        padding: 5px; 
+        border: solid 1px black; 
+        float: left; 
+        position: relative; 
+        top: 40px; 
+        left: 70px; 
+       }
+       .block2 { 
+        width: 300px; 
+        background: rgb(255, 0, 255); 
+        padding: 5px; 
+        border: solid 1px black; 
+        float: left; 
+        position: relative; 
+        top: 40px; 
+        left: 70px; 
+       }
+
+
+
